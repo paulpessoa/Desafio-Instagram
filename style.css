@@ -114,16 +114,16 @@ body {
   padding: 1rem;
 }
 
-app-download {
+.app-download {
   height: 3rem;
   width: 10rem;
   background-size: cover;
 }
 
-.download .app-download:nth-child(1) {
+.app-download:nth-child(1) {
   background-image: url('./img/baixar1.png');
 }
 
-.download .app-download:nth-child(2) {
+.app-download:nth-child(2) {
   background-image: url('./img/baixar2.png');
 }
