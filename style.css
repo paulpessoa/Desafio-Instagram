@@ -120,10 +120,10 @@ app-download {
   background-size: cover;
 }
 
-.app-download:nth-child(1) {
-  background-image: url('../img/botao-apple.png');
+.download .app-download:nth-child(1) {
+  background-image: url('./img/baixar1.png');
 }
 
-.app-download:nth-child(2) {
-  background-image: url('../img/google-botao.png');
+.download .app-download:nth-child(2) {
+  background-image: url('./img/baixar2.png');
 }
