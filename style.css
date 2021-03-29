@@ -61,7 +61,7 @@ body {
 }
 
 .instagram-logo {
-  height: 3rem;
+  height: 5rem;
 }
 
 
@@ -122,9 +122,9 @@ body {
 }
 
 .app-download:nth-child(1) {
-  background-image: url("../img/baixar1.png");
+  background-image: url('https://www.instagram.com/static/images/appstore-install-badges/badge_ios_portuguese-brazilian-pt_br.png/68006a2bb372.png');
 }
 
 .app-download:nth-child(2) {
-  background-image: url("../img/baixar2.png");
+  background-image: url('https://www.instagram.com/static/images/appstore-install-badges/badge_android_portuguese_brazilian-pt_BR.png/2f2a0c05b2f3.png');
 }
