@@ -121,9 +121,9 @@ app-download {
 }
 
 .app-download:nth-child(1) {
-  background-image: url('./img/botao-apple.png');
+  background-image: url('../img/botao-apple.png');
 }
 
 .app-download:nth-child(2) {
-  background-image: url('./img/google-botao.png');
+  background-image: url('../img/google-botao.png');
 }
